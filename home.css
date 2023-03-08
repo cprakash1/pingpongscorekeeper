@@ -1,0 +1,46 @@
+body{
+    background-color: bisque;
+}
+.container{
+    /* border: 2px solid black; */
+    width: 40%;
+    height: 400px;
+    margin: 40px auto;
+    background-color: silver;
+    border-radius: 8px;
+}
+img{
+    /* border: 2px solid red; */
+    border-radius: 8px;
+    width: 100%;
+    height: 200px;
+    margin: 1px auto;
+}
+#image{
+    border-radius: 8px;
+    /* border: 2px solid red; */
+    width: 98%;
+    height: 200px;
+    margin: 1px auto;
+}
+h1,h3{
+    margin: 0px;
+}
+.btn{
+    border-radius: 4px;
+    width: 32%;
+    height: 40px;
+    background-color: aquamarine;
+    cursor: pointer;
+    border: none;
+}
+#btns{
+    margin-top: 40px;
+    margin-left: 8px;
+}
+.loser{
+    color: red;
+}
+.winner{
+    color: green;
+}
